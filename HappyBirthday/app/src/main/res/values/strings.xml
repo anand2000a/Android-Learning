@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Happy Birthday</string>
+    <string name="happy_birthday_text">Happy Birthday Rohit</string>
+    <string name="from_person_name">From Rahul Anand</string>
+    <string name="backgroud_image_main">backgroud_image</string>
+    <string name="birthdayphoto">birthdayphoto</string>
+</resources>
