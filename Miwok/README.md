@@ -11,8 +11,7 @@ Pre-requisites
 - Android Build Tools v30.0.3
 - Android Support Repository v30.3.0
 
-Getting Started
+Learnings
 ---------------
 
-This sample uses the Gradle build system. To build this project, use the
-"gradlew build" command or use "Import Project" in Android Studio.
+Learn about using List View and using android media player.
